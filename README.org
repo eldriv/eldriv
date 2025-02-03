@@ -1,6 +1,9 @@
+
 #+begin_src lisp
 (:eldriv [Adrian Villareal, a Lisper, (:occupation [Software Engineer] :company [Valmiz])])
-@(:eldriv)
+(:eldriv)
+(:occupation)
+(:occupation :company)
 (:tech [My skillset]
        :front-end [Wordpress, HTML, CSS, Parenscript, JavaScript]
        :software-development [Git, Vim, Make, Emacs, Tmux]
