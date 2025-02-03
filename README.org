@@ -1,6 +1,6 @@
 
 #+begin_src lisp
-(:eldriv [Adrian Villareal, a Lisper, (:occupation [Software Engineer] :company [Valmiz])])
+(:eldriv [Adrian Villareal, a Lisper. (:occupation [Software Engineer] :company [Valmiz])])
 (:eldriv)
 (:occupation)
 (:occupation :company)
