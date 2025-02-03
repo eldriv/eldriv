@@ -36,7 +36,3 @@
 
 #+end_Src
 
- **Most Used Languages**
-  #+BEGIN_SRC markdown
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eldriv&langs_count=10&theme=radical)
-  #+END_SRC
