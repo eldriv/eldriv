@@ -35,4 +35,12 @@
 @(:tech :blog)
 
 #+end_Src
-[[https://github-readme-stats.vercel.app/api?username=eldriv][!GitHub stats]]
+
+* Contact Me
+  :PROPERTIES:
+  :CUSTOM_ID: contact-me
+  :END:
+
+  #+BEGIN_EXPORT html
+  <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Gmail.gif" width="100"/>
+  #+END_EXPORT
