@@ -37,7 +37,3 @@
 @(:tech :blog)
 
 #+end_Src
-
-#+BEGIN_HTML
-.moon
-#+END_HTML
