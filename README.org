@@ -37,3 +37,9 @@
 @(:tech :blog)
 
 #+end_Src
+
+#+begin_HTML
+.container
+  a.border-animation(href="#")
+    .border-animation__inner Border animation
+#+end_HTML
