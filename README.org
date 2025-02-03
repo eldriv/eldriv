@@ -35,4 +35,4 @@
 @(:tech :blog)
 
 #+end_Src
-[[https://github-readme-stats.vercel.app/api?username=eldriv][GitHub stats]]
+[[https://github-readme-stats.vercel.app/api?username=eldriv][!GitHub stats]]
