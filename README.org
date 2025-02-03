@@ -1,3 +1,21 @@
-** Hi there 👋
+#+begin_src lisp
 
+(:eldriv [Adrian Villareal, a Lisper and (:occupation [Software Engineer] :company [Valmiz])])
+@(:eldriv)
+(:tech [My skillset]
+       :front-end [Wordpress, HTML, CSS, Parenscript, JavaScript]
+       :software-development [Git, Vim, Make, Emacs, Tmux]
+       :virtualization [Docker and VirtualBox]
+       :documentation [ORG, Markdown, EBNF]
+       :operating-system [NixOS and Ubuntu]
+       :programming-languages [Common-lisp, Nix, Shell]
+       :blog [https://eldriv.com])
+@(:tech :frontend)
+@(:tech :software-development)
+@(:tech :virtualization)
+@(:tech :documentation)
+@(:tech :operating-system)
+@(:tech :programming-languages)
+@(:tech :blog)
 
+#+end_Src
