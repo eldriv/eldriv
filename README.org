@@ -11,7 +11,7 @@
        :documentation [ORG, Markdown, EBNF]
        :operating-system [NixOS, Ubuntu]
        :programming-languages [Common-lisp, Nix, Shell]
-       :blog [https://eldriv.com])
+       :blog [link:https://eldriv.com])
 @(:tech :frontend)
 @(:tech :software-development)
 @(:tech :virtualization)
