@@ -7,27 +7,13 @@
 (:occupation)
 (:occupation :company)
 (:tech [My skillset]
-       :front-end [
-       Wordpress, HTML, CSS, Parenscript, JavaScript
-       ]
-       :software-development [
-       Git, Vim, Make, Emacs, Tmux
-       ]
-       :virtualization [
-       Docker, VirtualBox
-       ]
-       :documentation [
-       ORG, Markdown, EBNF
-       ]
-       :operating-system [
-       NixOS, Ubuntu
-       ]
-       :programming-languages [
-       Common-lisp, Nix, Shell
-       ]
-       :blog [
-       link:https://eldriv.com
-       ])
+       :front-end [Wordpress, HTML, CSS, Parenscript, JavaScript]
+       :software-development [Git, Vim, Make, Emacs, Tmux]
+       :virtualization [Docker, VirtualBox]
+       :documentation [ORG, Markdown, EBNF]
+       :operating-system [NixOS, Ubuntu]
+       :programming-languages [Common-lisp, Nix, Shell]
+       :blog [https://eldriv.com])
 @(:tech :frontend)
 @(:tech :software-development)
 @(:tech :virtualization)
